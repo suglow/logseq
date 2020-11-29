@@ -1,5 +1,6 @@
 ---
-title: Nov 29th, 2020
+title: hello
+public: true
 ---
 
 ## 测试是否正常
